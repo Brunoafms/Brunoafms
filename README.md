@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Bruno De Almeida Ferreira Mendes 😁</a>
+    <a href="https://github.com/Brunoafms">Bruno De Almeida Ferreira Mendes 😁</a>
   </h1>
   
   <p align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://www.linkedin.com/in/bruno-de-almeida-ferreira-mendes-55784a244/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunoafms&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoafms&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
