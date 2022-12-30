@@ -8,7 +8,7 @@
   <p align="center">
     Sou Desenvolvedor Back-end e gosto muito de estudar bancos de dados. (SQL,MySQL)
       
-    </a>  
+      
   </p>
   
   <p align="center">
