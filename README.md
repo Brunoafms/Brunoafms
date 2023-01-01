@@ -30,9 +30,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/plasticine/512/github-squared.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="power_bi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://icons8.com.br/icon/70667/power-bi">
+  <img align="center" alt="powerbi" height="30" width="40" src="https://user-images.githubusercontent.com/109405514/210185896-8cad406c-9896-4687-a4cb-c135d763645b.png">
 </div><br>
 
 <div align="center">
