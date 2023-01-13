@@ -12,17 +12,10 @@
   </p>
   
   <p align="center">
-    Seja bem vindo! 😲
+    Skills
   </p>
   
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-de-almeida-ferreira-mendes-55784a244/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunoafms&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoafms&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="c#" height="40" width="40" src="https://img.icons8.com/fluency/512/c-sharp-logo.png">
@@ -44,7 +37,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
