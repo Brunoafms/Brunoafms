@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Back-end e gosto muito de estudar bancos de dados. (SQL,MySQL)
+    Sou Desenvolvedor Back-end e soua apaixonado por bancos de dados. (SQL,MySQL)
       
       
   </p>
