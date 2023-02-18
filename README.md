@@ -25,7 +25,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/plasticine/512/github-squared.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="powerbi" height="30" width="40" src="https://user-images.githubusercontent.com/109405514/210185896-8cad406c-9896-4687-a4cb-c135d763645b.png">
+  <img align="center" alt="kali" height="40" width="40" src="https://user-images.githubusercontent.com/109405514/219822364-0b3078f1-0d99-4f7d-a098-c36694bccd5e.png">
 </div><br>
 
 <div align="center">
