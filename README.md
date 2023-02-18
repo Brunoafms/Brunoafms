@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Estudo para ser desenvolvedor Back-end e sou apaixonado por bancos de dados. (SQL,MySQL)
+    Estudo para ser um profissional de Cibersegurança.
       
       
   </p>
@@ -26,7 +26,9 @@
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/plasticine/512/github-squared.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="kali" height="40" width="40" src="https://user-images.githubusercontent.com/109405514/219822364-0b3078f1-0d99-4f7d-a098-c36694bccd5e.png">
+  <img align="center" alt="windows" height="30" width="35" src="https://img.icons8.com/fluency/256/windows-11.png">
 </div><br>
+ 
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC37PG4cxtQ--UOZbBJK5slA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
