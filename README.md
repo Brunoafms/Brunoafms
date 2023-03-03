@@ -28,6 +28,7 @@
   <img align="center" alt="kali" height="40" width="40" src="https://user-images.githubusercontent.com/109405514/219822364-0b3078f1-0d99-4f7d-a098-c36694bccd5e.png">
   <img align="center" alt="windows" height="30" width="35" src="https://img.icons8.com/fluency/256/windows-11.png">
   <img align="center" alt="windows" height="35" width="40" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
+  <img align="center" alt="Python" height="35" width="40" src="https://img.icons8.com/3d-fluency/256/python.png">
 </div><br>
  
 
